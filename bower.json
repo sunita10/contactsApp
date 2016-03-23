@@ -1,0 +1,27 @@
+{
+  "name": "contacts-app",
+  "description": "full stack development",
+  "main": "server.js",
+  "authors": [
+    "sunita10 <sunita10oct@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Mongo",
+    "Express",
+    "Angular",
+    "and",
+    "Node"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
